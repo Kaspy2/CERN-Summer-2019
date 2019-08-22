@@ -1,0 +1,1489 @@
+{
+    "volumes": {
+        "10": {
+            "layers": {
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "bin1": [
+                            "binZ",
+                            "open",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "PST::Barrel"
+        },
+        "12": {
+            "layers": {
+                "1": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "10": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "11": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "12": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "13": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "3": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "4": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "5": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "6": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "7": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "8": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "9": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "SStrip::NegativeEndcap"
+        },
+        "13": {
+            "layers": {
+                "2": {
+                    "approach": {
+                        "1": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "4": {
+                    "approach": {
+                        "1": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "6": {
+                    "approach": {
+                        "1": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "8": {
+                    "approach": {
+                        "1": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                }
+            },
+            "name": "SStrip::Barrel"
+        },
+        "14": {
+            "layers": {
+                "1": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "10": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "11": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "12": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "13": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "3": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "4": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "5": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "6": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "7": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "8": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "9": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "SStrip::PositiveEndcap"
+        },
+        "16": {
+            "layers": {
+                "1": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "10": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "11": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "12": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "13": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "3": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "4": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "5": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "6": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "7": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "8": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "9": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "LStrip::NegativeEndcap"
+        },
+        "17": {
+            "layers": {
+                "2": {
+                    "approach": {
+                        "1": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "4": {
+                    "approach": {
+                        "1": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                }
+            },
+            "name": "LStrip::Barrel"
+        },
+        "18": {
+            "layers": {
+                "1": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "10": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "11": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "12": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "13": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "3": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "4": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "5": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "6": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "7": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "8": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "9": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "LStrip::PositiveEndcap"
+        },
+        "5": {
+            "layers": {
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "bin1": [
+                            "binZ",
+                            "open",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "BeamPipe::Barrel"
+        },
+        "7": {
+            "layers": {
+                "1": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "10": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "11": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "12": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "13": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "14": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "15": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "3": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "4": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "5": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "6": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "7": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "8": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "9": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "Pixel::NegativeEndcap"
+        },
+        "8": {
+            "layers": {
+                "2": {
+                    "approach": {
+                        "2": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "4": {
+                    "approach": {
+                        "2": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "6": {
+                    "approach": {
+                        "2": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                },
+                "8": {
+                    "approach": {
+                        "2": {
+                            "bin0": [
+                                "binPhi",
+                                "closed",
+                                20
+                            ],
+                            "bin1": [
+                                "binZ",
+                                "open",
+                                20
+                            ],
+                            "type": "proto"
+                        }
+                    }
+                }
+            },
+            "name": "Pixel::Barrel"
+        },
+        "9": {
+            "layers": {
+                "1": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "10": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "11": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "12": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "13": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "14": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "15": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "2": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "3": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "4": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "5": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "6": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "7": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "8": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                },
+                "9": {
+                    "representing": {
+                        "bin0": [
+                            "binR",
+                            "open",
+                            20
+                        ],
+                        "bin1": [
+                            "binPhi",
+                            "closed",
+                            20
+                        ],
+                        "type": "proto"
+                    }
+                }
+            },
+            "name": "Pixel::PositiveEndcap"
+        }
+    }
+}
